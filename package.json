@@ -1,0 +1,14 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "Web scrapper for getting hospital data from ICICI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  }
+}
